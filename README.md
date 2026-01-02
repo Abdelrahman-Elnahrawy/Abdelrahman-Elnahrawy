@@ -1,7 +1,6 @@
 # 🏛️ The Great Archive of Abdelrahman Elnahrawy
 **Embedded Systems Architect | Firmware Sorcerer | Hardware Guardian**
 
-![Profile Views](https://gpvc.arturio.dev/Abdelrahman-Elnahrawy)
 ![Status](https://img.shields.io/badge/Status-Secured_by_Ancient_Runes-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Off--Limits_Scroll-red?style=for-the-badge&logo=ghost)
 

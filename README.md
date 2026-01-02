@@ -26,7 +26,7 @@ Welcome, traveler, to the digital vault. You are currently standing at the inter
 
 By browsing this profile, you agree to the following:
 
-1. **NO CTRL+C WITHOUT PERMISSION:** You may look at the code, but if you steal a project and claim it as your own, your `main()` function will forever return `error 404`.
+1. **NO CTRL+C WITHOUT PERMISSION:** You may look at the code, but if you steal a project and claim it as your own, your `main()` function will forever return `error 404`and your coffee will always be lukewarm.
 2. **THE RECRUITER'S OATH:** If you like what you see and want to hire me, you must reach out through the official [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) portal.
 3. **RESPECT THE CRAFT:** These projects are the result of many sleepless nights and countless cups of coffee. Use the knowledge, but respect the source.
 

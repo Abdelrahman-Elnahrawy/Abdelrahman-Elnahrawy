@@ -1,5 +1,5 @@
 # 🏛️ The Great Archive of Abdelrahman Elnahrawy
-**Embedded Systems Architect | Firmware Sorcerer | Hardware Guardian**
+**Embedded Systems Magic | Firmware Sorcerer | Hardware Guardian**
 
 ![Status](https://img.shields.io/badge/Status-Secured_by_Ancient_Runes-blueviolet?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Off--Limits_Scroll-blue?style=for-the-badge&logo=ghost)

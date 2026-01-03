@@ -2,7 +2,7 @@
 **Embedded Systems Architect | Firmware Sorcerer | Hardware Guardian**
 
 ![Status](https://img.shields.io/badge/Status-Secured_by_Ancient_Runes-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Off--Limits_Scroll-red?style=for-the-badge&logo=ghost)
+![License](https://img.shields.io/badge/License-Off--Limits_Scroll-blue?style=for-the-badge&logo=ghost)
 
 Welcome, traveler, to the digital vault. You are currently standing at the intersection of **Low-Level Logic** and **Hardware Mastery**. Here, I turn silicon into intelligence and coffee into compiled code.
 
